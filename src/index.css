@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    align-content: flex-start;
+    flex-direction: column;
+    padding: 6rem;
+    width: 40dvw
+}
