@@ -25,23 +25,25 @@ Animal Farm is a simple React and Node.js project that allows users to search th
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine. 
 ### 1. Clone the repository 
   ```bash 
-  git clone https://github.com/yourusername/animalfarm.git cd animalfarm
+  git clone https://github.com/wimthomzik/animalfarm.git
   ``` 
 ### 2. Install dependencies 
-#### Backend (Node.js) Navigate to the server folder and install the required packages: 
+#### Backend (Node.js) 
+Navigate to the server folder and install the required packages: 
   ```bash 
   cd server npm install
   ``` 
-#### Frontend (React) Navigate to the client folder and install the required packages: 
+#### Frontend (React) 
+Navigate to the client folder and install the required packages: 
   ```bash 
   cd client npm install
   ``` 
-### 3. Run the server Start the backend server: 
+### 3. Run the backend server: 
   ```bash 
   npm start
   ```
 This will start the server and listen on `http://localhost:8080`. 
-### 4. Run the React app In a new terminal, navigate to the client directory and run the React app: 
+### 4. Run the React app In a new terminal: 
   ```bash 
   npm start
   ```
